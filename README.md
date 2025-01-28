@@ -91,4 +91,4 @@ O dataset utilizado neste projeto é público e foi extraído da plataforma Kagg
 
 ## 📬 Contato  
 
-Se tiver dúvidas ou sugestões, entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/seu-usuario) ou deixe um comentário aqui no repositório.  
+Se tiver dúvidas ou sugestões, entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/ferrmarino) ou deixe um comentário aqui no repositório.  
